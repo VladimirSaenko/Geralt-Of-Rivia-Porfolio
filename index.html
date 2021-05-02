@@ -7,17 +7,7 @@
     <meta name=description content="This site resume Herald of Rivia">
     <title>Résumé</title>
     <link rel="stylesheet" href="https://binary-studio-academy.github.io/stage-2/assets/stylesheets/base.css">
-    <style>
-        .color.red::before {
-          background-color: red;
-        }
-        h4 {
-          font-size: 0.75rem;
-          letter-spacing: 0.15em;
-          text-transform: uppercase;
-          margin: 0 0 1em 0;
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <main>
@@ -325,19 +315,6 @@
         </div>
       </article>
     </main>
-    <script>
-        function switchToColor(color) {
-			try {
-				document.querySelectorAll(".page").forEach(function(page) {
-					page.style.borderColor = color;
-				});
-				document.querySelectorAll(".avatar").forEach(function(avatar) {
-					avatar.contentDocument.getElementById("circle").setAttribute("fill", color);
-				});
-			} catch (error) {}
-		}
-        document.getElementById("midnightblue").addEventListener("click", switchToColor.bind(this, "midnightblue"));
-		document.getElementById("red").addEventListener("click", switchToColor.bind(this, "red"));
-    </script>
+    <script src="script.js"></script>
   </body>
 </html>
