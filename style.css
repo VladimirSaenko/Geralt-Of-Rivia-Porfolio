@@ -1,0 +1,9 @@
+.color.red::before {
+    background-color: red;
+}
+h4 {
+    font-size: 0.75rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin: 0 0 1em 0;
+}
