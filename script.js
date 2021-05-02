@@ -10,3 +10,10 @@ function switchToColor(color) {
 }
 document.getElementById("midnightblue").addEventListener("click", switchToColor.bind(this, "midnightblue"));
 document.getElementById("red").addEventListener("click", switchToColor.bind(this, "red"));
+
+document.getElementById("hourse").addEventListener("click", function() {
+    this.childNodes[2].play();
+});
+document.getElementById("sword").addEventListener("click", function() {
+    this.childNodes[2].play();
+});
