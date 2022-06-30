@@ -75,6 +75,15 @@ h4 {
     font-weight: bolder;
   }
 
+  a {
+    color: red;
+    font-weight: bold;
+  }
+
+  .divider.fat {
+    width: 100%;
+  }
+
   .contacts {
     font-size: 20px;
     flex-wrap: wrap;
@@ -85,7 +94,7 @@ h4 {
   }
 
   .page {
-    background: rgb(15, 15, 118);
+    background: rgb(13, 13, 105);
     color: white;
   }
 
