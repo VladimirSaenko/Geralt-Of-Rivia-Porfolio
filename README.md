@@ -35,4 +35,4 @@
 
 ### Basic instructions for the code are available at github wiki.
 
-### This project forked from [@AlexanderKhapchenko](https://github.com/AlexanderKhapchenko)
+### This project forked from https://github.com/AlexanderKhapchenko/Geralt-From-Rivia-Porfolio
