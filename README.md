@@ -31,4 +31,6 @@
 
 ### Basic instructions for the code are available at github wiki.
 
+### My very own personal website. Basically, this is just a résumé.
+
 ### This project forked from https://github.com/AlexanderKhapchenko/Geralt-From-Rivia-Porfolio
