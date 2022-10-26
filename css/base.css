@@ -570,6 +570,8 @@ li.bordered > ul > details > div {
 
 .tag {
   text-transform: uppercase;
+  font-size: larger;
+  font-weight: 500;
 }
 
 /* Print */

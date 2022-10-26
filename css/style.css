@@ -23,10 +23,10 @@ h4 {
 }
 
 .avatar {
-  border: 5px solid darkblue;
-  border-radius: none;
-  width: 200px;
-  height: 500px;
+  border: 10px solid rgb(0, 0, 0);
+  border-radius: 5px;
+  width: 225px;
+  height: 525px;
   object-fit: cover;
   object-position: center;
 }
