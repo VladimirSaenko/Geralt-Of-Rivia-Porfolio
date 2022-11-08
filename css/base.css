@@ -349,15 +349,15 @@ article {
 }
 
 .contacts li a.facebook:hover {
-  color: #3b5998;
+  color: #0b55f5;
 }
 
 .contacts li a.mail:hover {
-  color: dimgrey;
+  color: rgb(245, 12, 12);
 }
 
 .contacts li a.skype:hover {
-  color: #00aff0;
+  color: #223cff;
 }
 
 /* .contacts li a.linkedin:hover {
@@ -369,7 +369,7 @@ article {
 }
 
 .contacts li a.phone:hover {
-  color: dimgrey;
+  color: rgb(20, 183, 242);
 }
 
 .contacts li a .icon {

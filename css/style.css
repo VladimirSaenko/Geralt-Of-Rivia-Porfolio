@@ -75,6 +75,15 @@ h4 {
     font-weight: bolder;
   }
 
+  .co_author-link {
+    left: 0;
+    font-size: 1.5em;
+  }
+
+  .tag {
+    text-transform: capitalize;
+  }
+
   a {
     color: red;
     font-weight: bold;
