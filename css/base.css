@@ -422,6 +422,8 @@ details > div::after {
 
 /* Alternative to <details> compatible with Safari */
 .details > input {
+  -moz-appearance: none;
+  -webkit-appearance: none;
   appearance: none;
   border: none;
   border-radius: 0;
