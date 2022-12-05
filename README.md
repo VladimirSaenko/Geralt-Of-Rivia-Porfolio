@@ -14,7 +14,6 @@
 ![thumb2-geralt-of-rivia-4k-2017-games-art-rpg](https://user-images.githubusercontent.com/56477695/122649686-98afda00-d137-11eb-9489-9067055ca166.jpg)
 ![photo_2021-06-26_17-19-23](https://user-images.githubusercontent.com/56477695/123520833-80056e00-d6bb-11eb-8745-8a657d48cc04.jpg)
 ![photo_2021-06-28_11-10-32](https://user-images.githubusercontent.com/56477695/123633167-89104f80-d821-11eb-86af-529f37a4bdce.jpg)
-![photo_2021-06-29_15-37-51](https://user-images.githubusercontent.com/56477695/123860200-425c4b80-d92e-11eb-838c-7ff7e985c092.jpg)
 ![photo_2021-07-24_11-53-11](https://user-images.githubusercontent.com/56477695/165099225-acb0473a-cc8e-4b56-bff0-61b5a5343771.jpg)
 
 ### My very own personal website about the professional monster killer-a witcher Geralt of Rivia, based on a series of books by Polish writer Andrzej Sapkowski in the fantasy genre (Not based on a Netflix-serial!). This is mostly just a resume.
