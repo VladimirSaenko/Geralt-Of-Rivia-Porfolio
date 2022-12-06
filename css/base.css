@@ -348,8 +348,8 @@ article {
   transition: color 0.2s ease-in-out;
 }
 
-.contacts li a.facebook:hover {
-  color: #0b55f5;
+.contacts li a.instagram:hover {
+  color: rgb(222, 41, 222);
 }
 
 .contacts li a.mail:hover {

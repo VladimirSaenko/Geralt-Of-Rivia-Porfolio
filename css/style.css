@@ -105,6 +105,7 @@ h4 {
   .page {
     background: rgb(13, 13, 105);
     color: white;
+    text-shadow: #000 1px 1px 1px;
   }
 
   .avatar-wrapper {
