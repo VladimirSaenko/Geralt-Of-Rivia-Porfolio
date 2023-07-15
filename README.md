@@ -1,6 +1,6 @@
-# 🐺Geralt-From-Rivia-Portfolio🐺
+# 🐺Geralt-Of-Rivia-Portfolio🐺
 
-## Portfolio-site about book character Geralt from/of Rivia
+## Portfolio-site about book and game character Geralt of Rivia
 
 ![Геральт](https://user-images.githubusercontent.com/56477695/119560504-b2663780-bdac-11eb-8ff9-8ba013025ea2.jpg)
 ![avatar](https://user-images.githubusercontent.com/56477695/120183567-8a495f00-c218-11eb-9ab8-e6fd698758ba.jpg)
@@ -18,20 +18,12 @@
 
 ### My very own personal website about the professional monster killer-a witcher Geralt of Rivia, based on a series of books by Polish writer Andrzej Sapkowski in the fantasy genre (Not based on a Netflix-serial!). This is mostly just a resume.
 
-### Мой собственный персональный сайт о профессиональном убийце монстров-ведьмаке Геральте из Ривии, основанный на серии книг польского писателя Анджея Сапковского в жанре фэнтези (не по сериалу Netflix!). В основном это просто резюме.
-
 ## About Geralt
 
 ### “I, Geralt of Rivia, nicknamed by "White Wolf" , a witcher from the Wolf School in Kaer Morhen, the kingdom of Kaedwen, The Neverland world. A living legend of the entire North. Monsters Hunter. Passed the Trial of Herbs, overcame mutations and training, destroyed countless monsters and beasts of the entire bestiary of the Continent. I have an incredibly huge numbers of closed contracts, of which the most famous are: lifting the curse imposed on Princess Adda; expulsion of the genie from Rinda; victory in a battle with the demon-Gunter O'Dim; kill the king of the Wild Hunt-Eredin Breakk Glas; ridding Toussaint of Bokler Beast - higher vampire Detlaff."
 
-## Про Геральта
-
-### «Я, Геральт из Ривии, «Белый Волк», ведьмак из Школы Волка в Каэр Морхен, королевство Каэдвен, мир Неверленда. Живая легенда всего Севера. Охотник на монстров. Прошел Испытание Травами, преодолел мутации и тренировки, уничтожил бесчисленное количество чудовищ и бестий всего бестиария Континента. Имею невероятно огромное количество закрытых контрактов, из которых самые известные: снятие проклятия с принцессы Адды; изгнание джинна из Ринды; победа в схватке с демоном-Гюнтером О'Димом; убийство короля Дикой Охоты — Эредина Бреакк Гласа; избавление Туссента от Боклерской Бестии - высшего вампира Детлаффа».
-
 ## About Project
 
 ### Basic instructions for the code are available at github wiki.
-
-### My very own personal website. Basically, this is just a résumé.
 
 ### This project forked from https://github.com/AlexanderKhapchenko/Geralt-From-Rivia-Porfolio
